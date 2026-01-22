@@ -2,7 +2,7 @@
 
 "A modern React web application built with Vite, TypeScript, Tailwind CSS, and Shadcn UI. Features a complete UI component library and Supabase integration."
 
-# REAL-TIME-COLLABRATIVE-DOCUMENT-EDITOR-
+*****REAL-TIME-COLLABRATIVE-DOCUMENT-EDITOR-*****
 
 "A collaborative rich-text document editor featuring real-time synchronization, version history, and seamless Word document import."
 
@@ -31,7 +31,7 @@ Collab Docs is a modern, clean, and focused document editor designed for a distr
 
 1. **Clone the repository:**
 
-     
+    https://github.com/DharshanKeshav/CODTECH_TASK-2--REAL-TIME-DOC-EDITOR.git
   
 2. **Install dependencies:**
 
