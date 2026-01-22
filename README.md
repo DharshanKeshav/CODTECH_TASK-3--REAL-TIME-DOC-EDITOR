@@ -66,9 +66,10 @@ This project is open-source and available under the [MIT License](https://www.go
 
 <img width="800" height="600" alt="Screenshot 2026-01-22 212640" src="https://github.com/user-attachments/assets/7d87b6e5-b735-4ae3-bc5c-abdbbdacab3e" />
 
+<img width="800" height="600" alt="Screenshot 2026-01-22 212640" src="https://github.com/user-attachments/assets/28eb1083-1fd8-4e74-8925-5321b782444d" />
+
 <img width="800" height="600" alt="Screenshot 2026-01-22 212651" src="https://github.com/user-attachments/assets/b57d3663-f0f4-479d-99af-e5625c7fa880" />
 
-<img width="800" height="600" alt="Screenshot 2026-01-22 212640" src="https://github.com/user-attachments/assets/28eb1083-1fd8-4e74-8925-5321b782444d" />
 
 
 
