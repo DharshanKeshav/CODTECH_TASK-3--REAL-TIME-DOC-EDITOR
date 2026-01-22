@@ -31,7 +31,7 @@ Collab Docs is a modern, clean, and focused document editor designed for a distr
 
 1. **Clone the repository:**
 
-    https://github.com/DharshanKeshav/CODTECH_TASK-2--REAL-TIME-DOC-EDITOR.git
+    https://github.com/DharshanKeshav/CODTECH_TASK-3--REAL-TIME-DOC-EDITOR.git
   
 2. **Install dependencies:**
 
