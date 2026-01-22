@@ -64,7 +64,7 @@ This project is open-source and available under the [MIT License](https://www.go
 
 # ScreenShots 
 
-<img width="800" height="600" alt="Screenshot 2026-01-22 212640" src="https://github.com/user-attachments/assets/7d87b6e5-b735-4ae3-bc5c-abdbbdacab3e" />
+<img width="800" height="600" alt="Screenshot 2026-01-22 212630" src="https://github.com/user-attachments/assets/35d3e953-a4ca-430e-b9eb-968384bac488" />
 
 <img width="800" height="600" alt="Screenshot 2026-01-22 212640" src="https://github.com/user-attachments/assets/28eb1083-1fd8-4e74-8925-5321b782444d" />
 
