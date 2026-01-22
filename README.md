@@ -8,7 +8,7 @@
 
 # 📑 Collab Docs
 
-CrispScribe is a modern, clean, and focused document editor designed for a distraction-free writing experience. It features real-time collaboration, a powerful rich-text editor, and seamless document import/export capabilities.
+Collab Docs is a modern, clean, and focused document editor designed for a distraction-free writing experience. It features real-time collaboration, a powerful rich-text editor, and seamless document import/export capabilities.
 
 ## 🚀 Key Features
 
